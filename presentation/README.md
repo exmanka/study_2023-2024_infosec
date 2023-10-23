@@ -1,3 +1,3 @@
-# Presentations for laboratory works
+# Индивидуальное выступление
 
-This directory contains presentation files for laboratory works.
+Данная директория содержит файлы индивидуального выступления.
